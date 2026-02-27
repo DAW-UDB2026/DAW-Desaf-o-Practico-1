@@ -30,10 +30,16 @@ Se implementó una maquetación **responsive** usando CSS3 (Grid/Flexbox), logra
 - CSS3
 
 - Resultado
-
-Se creó un sitio web funcional, navegable y adaptable a distintos dispositivos, cumpliendo los requisitos solicitados en la actividad.
+Se creó un sitio web funcional eh interactivo, navegable y adaptable a distintos dispositivos,
+enfocado en el turismo de El Salvador y varios lugares turisticos del pais.
+mencionados como articulo, siendo asi cumplidos los requisitos solicitados en la actividad.
 
 - Creadores:
 Sophia Marcela Guzman Ayala GA231577
+Wilber Larris Carranza Campos CC253652
+Giovanni Manuel Quijano Sosa QS242538
+Jehudi Neftali Aguilar Araujo AA251259
+Fernando Antonio Abrego Chávez AC253484
+
 
 © 2026 — Universidad Don Bosco
