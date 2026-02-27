@@ -36,9 +36,13 @@ mencionados como articulo, siendo asi cumplidos los requisitos solicitados en la
 
 - Creadores:
 Sophia Marcela Guzman Ayala GA231577
+
 Wilber Larris Carranza Campos CC253652
+
 Giovanni Manuel Quijano Sosa QS242538
+
 Jehudi Neftali Aguilar Araujo AA251259
+
 Fernando Antonio Abrego Chávez AC253484
 
 
