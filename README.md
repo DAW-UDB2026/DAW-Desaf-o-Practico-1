@@ -5,7 +5,7 @@ Desafío Práctico 1 | DAW901 — Universidad Don Bosco
 
 Link video: https://drive.google.com/file/d/1bsTej60U5u2_Noep5xIIN2do_3D_C6V6/view?usp=sharing
 
-Link Hosting (Netlify): https://turistiandosv.netlify.app/
+Link Hosting (Netlify): https://turistiando503.netlify.app/
 
 - Descripción
 
